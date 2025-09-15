@@ -3,3 +3,4 @@ python-docx
 pdfplumber
 matplotlib
 seaborn
+scikit-learn
